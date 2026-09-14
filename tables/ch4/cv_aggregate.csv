@@ -1,0 +1,5 @@
+variant,cv_mean,cv_sd
+proposed,0.445,0.099
+vanilla,0.464,0.153
+cubic,0.667,0.035
+bbr,1.447,0.109

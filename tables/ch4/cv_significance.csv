@@ -1,0 +1,4 @@
+comparison,cv_proposed,cv_cubic,test,p_value,effect,lower,significant,cv_bbr,cv_vanilla
+proposed_vs_cubic,0.445,0.667,wilcoxon,0.00391,,proposed,True,,
+proposed_vs_bbr,0.445,,paired-t,0.0,-5.89,proposed,True,1.447,
+proposed_vs_vanilla,0.445,,paired-t,0.73209,-0.112,proposed,False,,0.464
