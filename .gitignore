@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.bak
+logs/
+data/
+venv/
+ns-allinone-3.40/
+ns-allinone-3.40.tar.bz2
+experiments/models/
+*.tar.bz2
+pilot-frozen-2026-07-22.tar.gz
